@@ -17,7 +17,7 @@ This repository contains all the materials used during my PyTorch learning journ
 ## Table of Contents
 
 | **Section** | **What does it cover?** |
-| ----- | ----- | ----- | ----- |
+| ----- | ----- |
 | [00 - PyTorch Fundamentals](./00_pytorch_fundamentals/) | Many fundamental PyTorch operations used for deep learning and neural networks. |
 | [01 - PyTorch Workflow](./01_pytorch_workflow/) | Provides an outline for approaching deep learning problems and building neural networks with PyTorch. |
 | [02 - PyTorch Neural Network Classification](./02_pytorch_classification/) | Uses the PyTorch workflow from 01 to go through a neural network classification problem. |
