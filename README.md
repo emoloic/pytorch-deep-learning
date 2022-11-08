@@ -2,11 +2,11 @@
 
 This repository contains all the materials used during my PyTorch learning journey at [Zero to Mastery Academy](https://zerotomastery.io/courses/learn-pytorch/).
 
-## What is Pythorch?
+## What is PyTorch?
 
 **PyTorch** is an open source machine learning framework that accelerates the path from research prototyping to production deployment.
 
-## Why PyTorch
+## Why PyTorch?
 
 - Most popular research deep learning framework.
 - Write fast deep learning code in Python (able to run on a GPU/many GPUs)
