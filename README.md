@@ -8,7 +8,7 @@ This repository contains all the materials used during my PyTorch learning journ
 
 ## Why PyTorch?
 
-- Most popular research deep learning framework.
+- [Most popular research deep learning framework](https://paperswithcode.com/trends).
 - Write fast deep learning code in Python (able to run on a GPU/many GPUs)
 - Able to access many pre-built deep learning models (Torch Hub/torchvision.models)
 - Whole stack: preprocess data, model data, deploy model in your application/cloud
