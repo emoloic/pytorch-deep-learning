@@ -1,4 +1,4 @@
-## 02. PyTorch Neural Netwok Classification
+## 02. PyTorch Neural Network Classification
 
 ### What is a classification problem ?
 
