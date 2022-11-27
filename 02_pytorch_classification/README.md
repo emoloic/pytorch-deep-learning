@@ -28,4 +28,4 @@ Specifically, we're going to cover:
 | **6. Non-linearity** | So far our model has only had the ability to model straight lines, what about non-linear (non-straight) lines? |
 | **7. Replicating non-linear functions** | We used **non-linear functions** to help model non-linear data, but what do these look like? |
 | **8. Putting it all together with multi-class classification** | Let's put everything we've done so far for binary classification together with a multi-class classification problem. |
-| **9 More classification evaluation metrics** | we'll cover a couple of ways of evaluating a classification model |
+| **9. More classification evaluation metrics** | we'll cover a couple of ways of evaluating a classification model |
